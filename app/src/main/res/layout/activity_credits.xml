@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CreditsActivity"
+    android:gravity="top"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Created by"
+        android:gravity="center"
+        android:paddingBottom="100dp"
+        android:paddingTop="100dp"
+        android:textSize="64dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="32dp"
+        android:text="Bebo Harraz\nTim Henderson\nMatt Vorsteg\nJordan Woo"/>
+    <TextView
+        android:paddingTop="200dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="thank you for trying our app!\ntap screen to go back"/>
+
+
+</LinearLayout>

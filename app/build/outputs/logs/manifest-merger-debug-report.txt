@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7fafa6a8b4dd60f4d0920553ab293146\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\13d255ea2dd79eadf92a7df5199f8b6a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.esri.arcgisruntime:arcgis-android:100.4.1-arbeta3] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\arcgis-android-100.4.1-arbeta3.aar\2e4811aa7189df8074d7c64ac95e8ac2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\sceneform-ux-1.5.1.aar\cab76d8a1c8743bedb350b8c52154477\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:core:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.1.aar\570ec00cecb33be92172ac284e901b2d\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8dc4d25c9fa3d2f37917a40542029542\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8e397a055decd01a24da810d45e48fcb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\dbd98974dafc87c078eefa91c7dafb70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b0b201624b9c8e2a6d1f95931325133c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\15d72ef659198ed7124bc60966db76df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\891eac77171f4ba1eddb7643fbf11a3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:rendering:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\rendering-1.5.1.aar\69397a5ba431c69d6e9df4dc880bce89\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:sceneform-base:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\sceneform-base-1.5.1.aar\ff44abdc82911aae2fb5393e769dfe7e\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.ar.sceneform:filament-android:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\filament-android-1.5.1.aar\939eaeda669fcd717136b28ca2bc5811\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ac14081c3cbbe5eb6e89430aab761ea5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\93dce07fd3cb4b0c8d808b7d71e2099d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:17:1-46:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2aea3e03314bfd6023c6ff38208ce2a3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\54b28965709f3ed9a6d200383e087777\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:3:5-85
+		INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera.ar
+ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:8:5-10:35
+	android:required
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:10:9-32
+	android:name
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:9:9-50
+uses-feature#0x00020000
+ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:11:5-13:35
+	android:glEsVersion
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:12:9-41
+	android:required
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:13:9-32
+application
+ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:15:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\13d255ea2dd79eadf92a7df5199f8b6a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\13d255ea2dd79eadf92a7df5199f8b6a\AndroidManifest.xml:9:5-20
+MERGED from [com.google.ar.sceneform:sceneform-base:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\sceneform-base-1.5.1.aar\ff44abdc82911aae2fb5393e769dfe7e\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.ar.sceneform:sceneform-base:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\sceneform-base-1.5.1.aar\ff44abdc82911aae2fb5393e769dfe7e\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:30:5-44:19
+	android:supportsRtl
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:20:9-54
+	android:largeHeap
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:19:9-33
+	android:icon
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:22:9-40
+activity#com.esri.arcgisruntime.arvrdemos.arcoreinthearcgisruntimesdkforandroid.CreditsActivity
+ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:23:9-53
+	android:name
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:23:19-50
+activity#com.esri.arcgisruntime.arvrdemos.arcoreinthearcgisruntimesdkforandroid.StartActivity
+ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:24:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:28:27-74
+meta-data#com.google.ar.core
+ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:32:9-34:40
+	android:value
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:33:13-46
+activity#com.esri.arcgisruntime.arvrdemos.arcoreinthearcgisruntimesdkforandroid.MainActivity
+ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:36:9-38:50
+	android:screenOrientation
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:38:13-47
+	android:name
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:37:13-41
+uses-sdk
+INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7fafa6a8b4dd60f4d0920553ab293146\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7fafa6a8b4dd60f4d0920553ab293146\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\13d255ea2dd79eadf92a7df5199f8b6a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\13d255ea2dd79eadf92a7df5199f8b6a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.esri.arcgisruntime:arcgis-android:100.4.1-arbeta3] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\arcgis-android-100.4.1-arbeta3.aar\2e4811aa7189df8074d7c64ac95e8ac2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.esri.arcgisruntime:arcgis-android:100.4.1-arbeta3] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\arcgis-android-100.4.1-arbeta3.aar\2e4811aa7189df8074d7c64ac95e8ac2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\sceneform-ux-1.5.1.aar\cab76d8a1c8743bedb350b8c52154477\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\sceneform-ux-1.5.1.aar\cab76d8a1c8743bedb350b8c52154477\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:core:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.1.aar\570ec00cecb33be92172ac284e901b2d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:core:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.1.aar\570ec00cecb33be92172ac284e901b2d\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8dc4d25c9fa3d2f37917a40542029542\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8dc4d25c9fa3d2f37917a40542029542\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8e397a055decd01a24da810d45e48fcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8e397a055decd01a24da810d45e48fcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\dbd98974dafc87c078eefa91c7dafb70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\dbd98974dafc87c078eefa91c7dafb70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b0b201624b9c8e2a6d1f95931325133c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b0b201624b9c8e2a6d1f95931325133c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\15d72ef659198ed7124bc60966db76df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\15d72ef659198ed7124bc60966db76df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\891eac77171f4ba1eddb7643fbf11a3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\891eac77171f4ba1eddb7643fbf11a3b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\rendering-1.5.1.aar\69397a5ba431c69d6e9df4dc880bce89\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\rendering-1.5.1.aar\69397a5ba431c69d6e9df4dc880bce89\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:filament-android:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\filament-android-1.5.1.aar\939eaeda669fcd717136b28ca2bc5811\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:filament-android:1.5.1] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\filament-android-1.5.1.aar\939eaeda669fcd717136b28ca2bc5811\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ac14081c3cbbe5eb6e89430aab761ea5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ac14081c3cbbe5eb6e89430aab761ea5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\93dce07fd3cb4b0c8d808b7d71e2099d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\93dce07fd3cb4b0c8d808b7d71e2099d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:26:5-28:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2aea3e03314bfd6023c6ff38208ce2a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2aea3e03314bfd6023c6ff38208ce2a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\54b28965709f3ed9a6d200383e087777\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\54b28965709f3ed9a6d200383e087777\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:2:1-41:12 reason: com.google.ar.sceneform has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:2:1-41:12 reason: com.google.ar.sceneform has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\mvors_000\Desktop\AndroidBeta3\ARCoreDemo-Android\app\src\main\AndroidManifest.xml:2:1-41:12 reason: com.google.ar.sceneform requested WRITE_EXTERNAL_STORAGE
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:33:9-39:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:36:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:38:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:37:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:35:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:39:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:34:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:41:9-43:41
+	android:value
+		ADDED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:43:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.5.0] C:\Users\mvors_000\.gradle\caches\transforms-1\files-1.1\core-1.5.0.aar\1ffb8e433a29996b9596bc3a1daa5f35\AndroidManifest.xml:42:13-62
